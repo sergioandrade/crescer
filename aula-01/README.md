@@ -10,6 +10,6 @@
  - [Slides CSS](Módulo%20de%20HTML%20%2B%20CSS%20-%20PARTE%202.pdf)
  - Exercício CSS dos Slides
 
-[Tema de casa](https://gist.github.com/pedrohenriquepires/539209f44135d0fb50e0b66922193a7b)
+[Tema de casa](./tema-de-casa-aula-01.md)
 
 ---

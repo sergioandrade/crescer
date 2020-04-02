@@ -3,7 +3,7 @@
 
 **Conteúdo:**
  - Apresentação
- - Primeiro exercício em HTML
+ - [Primeiro exercício em HTML](./primeiro-exercicio-html.md)
  - [Slides HTML](./Módulo%20de%20HTML%20%2B%20CSS%20-%20PARTE%201.pdf)
  - Exercício HTML dos Slides
  - Intervalo

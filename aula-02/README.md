@@ -13,7 +13,7 @@
  - Intervalo
  - Centralização sem position - Técnica container
  - [Exercício](https://gist.github.com/sergioandrade/3e5518df520451e6b84f0b6dc5a5483b) Repensar
- - Flexbox
+ - [Flexbox](aqui)
  - [Exercício](https://codepen.io/sergioandrade/pen/KEqZee) - [Como deve ficar](https://i.imgur.com/mhJYThw.png)
 
 [Tema de casa]()

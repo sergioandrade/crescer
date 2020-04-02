@@ -9,7 +9,6 @@
  - Intervalo
  - [Slides CSS](Módulo%20de%20HTML%20%2B%20CSS%20-%20PARTE%202.pdf)
  - Exercício CSS dos Slides
-
-[Tema de casa](./tema-de-casa-aula-01.md)
+ - [Tema de casa](./tema-de-casa-aula-01.md)
 
 ---

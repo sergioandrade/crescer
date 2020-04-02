@@ -4,10 +4,10 @@
 **Conteúdo:**
  - Apresentação
  - Primeiro exercício em HTML
- - [Slides HTML](https://docs.google.com/presentation/d/1Hnkoo8loXc2ugpQJlvdOiy83coJr7zZ0-QnVGz_4hbY/edit?usp=sharing)
+ - [Slides HTML](./Módulo%20de%20HTML%20%2B%20CSS%20-%20PARTE%201.pdf)
  - Exercício HTML dos Slides
  - Intervalo
- - [Slides CSS](https://docs.google.com/presentation/d/1k6URroUwXR1YnJSrMKtQubJP8oboovqXI-p_XteTsXo/edit?usp=sharing)
+ - [Slides CSS](Módulo%20de%20HTML%20%2B%20CSS%20-%20PARTE%202.pdf)
  - Exercício CSS dos Slides
 
 [Tema de casa](https://gist.github.com/pedrohenriquepires/539209f44135d0fb50e0b66922193a7b)

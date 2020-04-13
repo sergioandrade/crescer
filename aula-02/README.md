@@ -3,6 +3,7 @@
 *Objetivo: Aprender flexbox e fazer a componentes*
 
 **Conteúdo:**
+ - [Slides](./Módulo%20de%20HTML%20%2B%20CSS%20-%20LAYOUT.pdf)
  - Displays (block, inline e inline-block)
  - Margin
  - Padding
@@ -12,8 +13,7 @@
  - [Exercício Box Model](./exercicio-box-model.md)
  - Intervalo
  - Centralização sem position - Técnica container
- - [Exercício](./exercicio-flexbox-02.md)
- - [Flexbox](./Módulo%20de%20HTML%20%2B%20CSS%20-%20LAYOUT.pdf)
  - [Exercício](https://codepen.io/sergioandrade/pen/KEqZee) - [Como deve ficar](https://i.imgur.com/mhJYThw.png)
+ - [Exercício](./exercicio-flexbox-02.md)
 
 [Tema de casa]()

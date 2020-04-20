@@ -1,6 +1,6 @@
 ### Exercício Marco Zero HTML
 
-*Talvez você não conheça HTML, ou conheça muito pouco, mas aposto que você sabe usar o Google pesquisar, entender, e reproduzir alguma coisa em HTML*
+*Talvez você não conheça HTML, ou conheça muito pouco, mas aposto que você sabe usar o Google para pesquisar, entender, e desenvolver alguma coisa em HTML*
 
 Vamos lá...
 
